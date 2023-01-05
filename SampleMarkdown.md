@@ -144,12 +144,11 @@ $\color{ligthgray} {LIGHT GRAY}$
 ```diff
 + This is Addition
 - This is Substraction
+! This is Excamation
 * This is Multiplication
 / This is division
-! This is Excamation
 
-@@ Is this Red @@
-# Gray
+@@ Always Pink @@
 ```
 ***
 ### Code
