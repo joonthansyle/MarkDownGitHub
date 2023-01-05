@@ -103,9 +103,9 @@ C --> D
 
 ### Font Coloring
 
-$\color{black}{ThisIsBLACK}$
-$\color{blue}{ThisIsBLUE}$
-$\color{blue}{Blue}$
+$\color{yellow}{This is YELLOW}$
+$\color{red}{This is RED}$
+$\color{ligthgray}{This is LIGHT GRAY}$
 
 
 
