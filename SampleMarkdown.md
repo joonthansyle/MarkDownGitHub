@@ -93,6 +93,8 @@ B --> D{Rhombus}
 C --> D
 
 ```
+### Colored Table Sample
+
 | $$\color{black}{Black}$$ |  $$\color{blue}{Blue}$$ | $$\color{brown}{Brown}$$ | $$\color{darkgray}{Darkgray}$$  | $$\color{gray}{Gray}$$ | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | $$\color{lightgray}{Lightgray}$$ |  $$\color{green}{Green}$$ | $$\color{brown}{Brown}$$ | $$\color{lime}{Lime}$$  | $$\color{magenta}{Magenta}$$ |
@@ -115,6 +117,7 @@ $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
+### DIFF
 
 ```diff
 + This is GREEN
@@ -123,6 +126,9 @@ $\color{ligthgray} {LIGHT GRAY}$
 @@ Pink @@
 # Gray
 ```
+### Code
+This is `code`
+
 ### End
 
 
