@@ -142,7 +142,8 @@ $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
-This is *red*{: style="color: red"}.
+
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
 
 
 ***
