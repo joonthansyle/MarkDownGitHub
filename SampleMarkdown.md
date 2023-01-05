@@ -162,6 +162,7 @@ $\tiny Hello!$<br>
 
 $\small \text{Font size is small} $<br>
 $\small \color{red} \text{Font size is small} $<br>
+$\normalsize \color{green} \text{Font size is small} $<br>
 
 
 ***
