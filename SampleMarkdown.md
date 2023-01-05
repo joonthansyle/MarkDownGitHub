@@ -59,7 +59,7 @@ X^2^<br>
 [^note]: This is footnote
 
 ### Image
-![alt text](image.jpg)
+![alt text](https://i.ytimg.com/vi/a3_Zv-qP95A/maxresdefault.jpg)
 
 ### Footnote
 Here's a sentence with a footnote. [^1]
