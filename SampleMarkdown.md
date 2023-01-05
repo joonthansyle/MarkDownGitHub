@@ -160,7 +160,7 @@ $\small Hello!$<br>
 $\scriptsize Hello!$<br>
 $\tiny Hello!$<br>
 
-$\small \text{Font size is small, eg. $
+$\small \text{Font size is small} $
 
 
 ***
