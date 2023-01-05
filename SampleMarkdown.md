@@ -75,6 +75,9 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
+> __Note__
+> This is a note.
+
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -83,5 +86,4 @@ B --> D{Rhombus}
 C --> D
 
 
-> __Note__
-> This is a note.
+
