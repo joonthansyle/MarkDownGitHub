@@ -117,9 +117,9 @@ $\color{ligthgray} {LIGHT GRAY}$
 
 
 ```diff
-+ Green
-- Red
-! Orange
++ Green + This is GREEN
+- Red - This is RED
+! Orange ! This is ORANGE
 @@ Pink @@
 # Gray
 ```
