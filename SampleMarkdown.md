@@ -81,7 +81,7 @@ term
 
 ### Warning
 > __Warning__
-> This is a note.
+> This is a warning.
 
 
 ```mermaid
