@@ -103,9 +103,11 @@ C --> D
 
 ### Font Coloring
 
-$\color{yellow}{This is YELLOW}$
-$\color{red}{This is RED}$
-$\color{ligthgray}{This is LIGHT GRAY}$
+$\color{yellow} {This is YELLOW}$
+
+$\color{red} {This is RED}$
+
+$\color{ligthgray} {This is LIGHT GRAY}$
 
 
 
