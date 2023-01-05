@@ -147,7 +147,7 @@ $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
-
+$$\small \text{Font size is small, eg. $\sum{x_i = 10}$}$$
 
 
 
