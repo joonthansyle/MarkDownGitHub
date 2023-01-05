@@ -140,8 +140,11 @@ $\color{red} {RED}$
 $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
+
 <br>
-Some Markdown text with <span style="color:red">some blue text</span>.
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+<br>
+Some Markdown text with <span style="color:red">some red text</span>.
 
 ***
 ### DIFF
