@@ -142,10 +142,13 @@ $\color{ligthgray} {LIGHT GRAY}$
 ### DIFF
 
 ```diff
-+ This is GREEN
-- This is RED
-! This is ORANGE
-@@ Pink @@
++ This is Addition
+- This is Substraction
+* This is Multiplication
+/ This is division
+! This is Excamation
+
+@@ Is this Red @@
 # Gray
 ```
 ***
