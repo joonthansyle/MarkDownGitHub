@@ -1,8 +1,9 @@
 # Sample Markup in GitHub
-BOLD
+### BOLD
 - This is **Bold_01**,<br> __BOLD 02__
-<br><br>
-ITALICS
+
+
+### ITALICS
 - *italicized text*
 BlockQuote
 > Blockquote.
