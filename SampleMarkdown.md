@@ -104,6 +104,7 @@ C --> D
 ### Font Coloring
 $$\color{black}{ThisIsBLACK}$$
 $$\color{blue}{ThisIsBLUE}$$
+$$\color{blue}{Blue}$$
 
 ### End
 
