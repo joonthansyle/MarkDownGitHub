@@ -116,6 +116,13 @@ $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
 
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
 
 
 ### End
