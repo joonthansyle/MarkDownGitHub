@@ -143,7 +143,7 @@ $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
 
-~$\color{color-code}{your text here}$
+$\color{color-code}{~your text here}$
 
 
 ***
