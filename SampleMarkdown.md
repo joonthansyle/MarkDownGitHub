@@ -1,6 +1,7 @@
 # Hello World
 BOLD
 - This is **Bold_01**,<br> __BOLD 02__
+<br>
 ITALICS
 - *italicized text*
 BlockQuote
