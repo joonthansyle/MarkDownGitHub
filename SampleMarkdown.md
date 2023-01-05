@@ -1,5 +1,5 @@
 # Hello World
-BOLD<br>
+BOLD<br><br>
 This is **Bold_01**,<br> __BOLD 02__<br>
 ITALICS<br>
 *italicized text*<br>
