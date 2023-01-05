@@ -161,8 +161,9 @@ $\scriptsize Hello!$<br>
 $\tiny Hello!$<br>
 
 $\small \text{Font size is small} $<br>
-$\small \color{red} \text{Font size is small} $<br>
-$\normalsize \color{green} \text{Font size is small} $<br>
+$\small \color{red} \text{Font size is small in red} $<br>
+$\normalsize \color{green} \text{Font size is normal in green} $<br>
+$\large \color{yellow} \text{ALL CAPS LARGE size in YELLOW} $<br>
 
 
 ***
