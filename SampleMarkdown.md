@@ -103,7 +103,7 @@ term
 > This is a warning.
 
 ***
-### Mermaad Graph
+### Mermaid Graph
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -153,6 +153,15 @@ $\color{ligthgray} {LIGHT GRAY}$
 ***
 ### Code
 This is `code`
+
+### Code Language HTML
+```html
+<body>
+  <div class="loader"></div>
+  <div class="pause">Click To Pause</div>
+</body>
+
+```
 
 ### Github Refrerence
 
