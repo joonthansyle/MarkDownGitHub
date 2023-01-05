@@ -160,7 +160,8 @@ $\small Hello!$<br>
 $\scriptsize Hello!$<br>
 $\tiny Hello!$<br>
 
-$\small \text{Font size is small} $
+$\small \text{Font size is small} $<br>
+$\small \color{ligthgray} \text{Font size is small} $<br>
 
 
 ***
