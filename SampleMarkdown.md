@@ -102,13 +102,11 @@ C --> D
 | $$\color{Magenta} \fcolorbox{red}{white} {Magenta on White} $$ |  $$\color{green} \fcolorbox{red}{white} {Green on White} $$ | $$\color{lime} \fcolorbox{white}{red} {Lime on Red} $$ |$$\color{Orange} \fcolorbox{white}{black} {Orange on Black} $$  | $$\color{blue} \fcolorbox{white}{red} {Blue on White} $$ | 
 
 ### Font Coloring
-$$\color{black}{ThisIsBLACK}$$
-$$\color{blue}{ThisIsBLUE}$$
-$$\color{blue}{Blue}$$
 
 $\color{black}{ThisIsBLACK}$
 $\color{blue}{ThisIsBLUE}$
 $\color{blue}{Blue}$
+
 
 
 ### End
