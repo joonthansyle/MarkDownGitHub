@@ -150,16 +150,17 @@ $\color{ligthgray} {LIGHT GRAY}$
 $$\small \text{Font size is small, eg. $\sum{x_i = 10}$}$$
 
 ### LaTeX Font Sizes
-$\Huge Hello!$
-$\huge Hello!$
-$\LARGE Hello!$
-$\Large Hello!$
-$\large Hello!$
-$\normalsize Hello!$
-$\small Hello!$
-$\scriptsize Hello!$
-$\tiny Hello!$
+$\Huge Hello!$<br>
+$\huge Hello!$<br>
+$\LARGE Hello!$<br>
+$\Large Hello!$<br>
+$\large Hello!$<br>
+$\normalsize Hello!$<br>
+$\small Hello!$<br>
+$\scriptsize Hello!$<br>
+$\tiny Hello!$<br>
 
+$\small \text{Font size is small, eg. $
 
 
 ***
