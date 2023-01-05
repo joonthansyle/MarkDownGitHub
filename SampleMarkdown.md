@@ -142,7 +142,7 @@ $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
-<font color=#0fb503>other color</font>
+This is *red*{: style="color: red"}.
 
 
 ***
