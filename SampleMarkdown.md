@@ -75,8 +75,14 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
+### Note
 > __Note__
 > This is a note.
+
+### Warning
+> __Warning__
+> This is a note.
+
 
 ```mermaid
 graph LR
