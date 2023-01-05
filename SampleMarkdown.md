@@ -9,57 +9,71 @@
 
 ### BlockQuote
 > Blockquote.
-Blockquotes Nested
+
+### Blockquotes Nested
 > Blockquote.
 >> Nested
-Blockquotes Elements<br>
-                   > Blockquote
-                   > - Revenue was off the chart.
-                   > - Profits were higher than ever.
-List Ordered<br>
-                   Ordered List
-                   1. First item
-                   2. Second item
-List Unordered<br>
-                   Unordered List
-                   - First item
-                   - Second item
-List Unordered Indented<br>
-                   Unordered List
-                   - Third item
-                     - Indented item
-                     - Indented item
-Horizontal Rule<br>
-                   ---
-Line Break<br>
-                   First line with the HTML tag after.<br>
-Table<br>
-                   | NUMBER |                ITEM           |<br>
-                   |:-----: | :----------------------------:|<br>
-                   |   1    | Test 1                        |<br>
-                   |   2    | Test 2                        |<br>
-Strikethrough<br>
-                   ~~The world is flat.~~ We now know that the world is round.<br>
 
-Subscript<br>
-                   H~2~O<br>
-Superscript<br>
-                   X^2^<br>
-                   [^note]: This is footnote<br>
-Image<br>
-                   ![alt text](image.jpg)<br>
-Footnote<br>
-                   Here's a sentence with a footnote. [^1]<br>
-                   ...<br>
-                   [^1]: This is the footnote.<br>
-Definition<br>
-                   term<br>
-                   : definition<br>
-Task List
+### Blockquotes Elements
+> Blockquote
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+
+### List Ordered
+Ordered List
+1. First item
+2. Second item
+
+### List Unordered
+Unordered List
+- First item
+- Second item
+
+### List Unordered Indented
+Unordered List
+- Third item
+  - Indented item
+  - Indented item
+
+### Horizontal Rule
+---
+                   
+### Line Break
+First line with the HTML tag after.<br>
+
+### Table
+| NUMBER |                ITEM           |
+|:-----: | :----------------------------:|
+|   1    | Test 1                        |
+|   2    | Test 2                        |
+
+
+### Strikethrough
+~~The world is flat.~~ We now know that the world is round.<br>
+
+### Subscript
+H~2~O
+
+### Superscript
+X^2^<br>
+[^note]: This is footnote
+
+### Image
+![alt text](image.jpg)
+
+### Footnote
+Here's a sentence with a footnote. [^1]
+...
+[^1]: This is the footnote.
+
+### Definition
+term
+: definition
+
+### Task List
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
 
 ```mermaid
 graph LR
