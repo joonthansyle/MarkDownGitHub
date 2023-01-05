@@ -134,6 +134,9 @@ $\color{yellow} {This}$
 $\color{yellow} {is}$
 $\color{yellow} {Yellow}$
 
+$\color{red} {This~is~RED}$
+$\color{ligthgray} {This~is~LIGHTGRAY}$
+
 $\color{red} {This}$
 $\color{red} {is}$
 $\color{red} {RED}$
