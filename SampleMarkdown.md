@@ -4,27 +4,27 @@ BOLD<br>
 ITALICS<br>
                    *italicized text*<br>
 BlockQuote<br>
-                   > Blockquote.<br>
+                   > Blockquote.
 Blockquotes Nested<br>
-                   > Blockquote.<br>
-                   >> Nested<br>
+                   > Blockquote.
+                   >> Nested
 Blockquotes Elements<br>
-                   > Blockquote<br>
-                   > - Revenue was off the chart.<br>
-                   > - Profits were higher than ever.<br>
+                   > Blockquote
+                   > - Revenue was off the chart.
+                   > - Profits were higher than ever.
 List Ordered<br>
-                   Ordered List<br>
-                   1. First item<br>
-                   2. Second item<br>
+                   Ordered List
+                   1. First item
+                   2. Second item
 List Unordered<br>
-                   Unordered List<br>
-                   - First item<br>
-                   - Second item<br>
+                   Unordered List
+                   - First item
+                   - Second item
 List Unordered Indented<br>
-                   Unordered List<br>
-                   - Third item<br>
-                     - Indented item<br>
-                     - Indented item<br>
+                   Unordered List
+                   - Third item
+                     - Indented item
+                     - Indented item
 Horizontal Rule<br>
                    ---
 Line Break<br>
