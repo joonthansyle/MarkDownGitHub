@@ -107,9 +107,14 @@ $\color{yellow} {This}$
 $\color{yellow} {is}$
 $\color{yellow} {Yellow}$
 
-$\color{red} {This is RED}$
+$\color{red} {This}$
+$\color{red} {is}$
+$\color{red} {RED}$
 
-$\color{ligthgray} {This is LIGHT GRAY}$
+$\color{ligthgray} {This}$
+$\color{ligthgray} {is}$
+$\color{ligthgray} {LIGHT GRAY}$
+
 
 
 
