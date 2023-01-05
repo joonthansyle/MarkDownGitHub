@@ -1,13 +1,13 @@
 # Hello World
 BOLD<br>
-                   This is **Bold_01**,<br> __BOLD 02__<br>
+This is **Bold_01**,<br> __BOLD 02__<br>
 ITALICS<br>
-                   *italicized text*<br>
+*italicized text*<br>
 BlockQuote<br>
-                   > Blockquote.
+> Blockquote.
 Blockquotes Nested<br>
-                   > Blockquote.
-                   >> Nested
+> Blockquote.
+>> Nested
 Blockquotes Elements<br>
                    > Blockquote
                    > - Revenue was off the chart.
