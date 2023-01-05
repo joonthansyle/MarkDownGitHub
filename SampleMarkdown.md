@@ -122,9 +122,7 @@ $\color{ligthgray} {LIGHT GRAY}$
 ! Orange
 @@ Pink @@
 # Gray
-...
-
-
+```
 ### End
 
 
