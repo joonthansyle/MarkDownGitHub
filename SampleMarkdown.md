@@ -3,7 +3,7 @@ BOLD<br>
 This is **Bold_01**,<br> __BOLD 02__<br>
 ITALICS<br>
 *italicized text*<br>
-BlockQuote<br>
+BlockQuote
 > Blockquote.
 Blockquotes Nested<br>
 > Blockquote.
