@@ -1,5 +1,5 @@
 # Hello World
-<p color:red>BOLD</p>
+<p style="color:#FF0000";>BOLD</p>
 - This is **Bold_01**,<br> __BOLD 02__
 <br>
 ITALICS
