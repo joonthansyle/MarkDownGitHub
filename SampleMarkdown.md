@@ -106,7 +106,7 @@ term
 
 ***
 ### Mermaid Graph
-[LINK](https://github.com/mermaid-js/mermaid)
+[Link to Mermaid](https://github.com/mermaid-js/mermaid)
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -170,7 +170,7 @@ This is `code`
 ***
 ### Github Refrerence
 
-[GITHUB MARKDOWN DOC](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-Markdown)
+[Link to GitHub Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-Markdown)
 
 ***
 ### End
