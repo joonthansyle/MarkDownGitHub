@@ -118,7 +118,7 @@ C --> D
 ```
 ***
 ### Colored Table Sample
-
+[Link to LaTeX](https://ashki23.github.io/markdown-latex.html)
 | $$\color{black}{Black}$$ |  $$\color{blue}{Blue}$$ | $$\color{brown}{Brown}$$ | $$\color{darkgray}{Darkgray}$$  | $$\color{gray}{Gray}$$ | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | $$\color{lightgray}{Lightgray}$$ |  $$\color{green}{Green}$$ | $$\color{brown}{Brown}$$ | $$\color{lime}{Lime}$$  | $$\color{magenta}{Magenta}$$ |
