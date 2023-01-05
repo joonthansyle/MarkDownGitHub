@@ -1,7 +1,9 @@
 # Sample Markdown in GitHub
 
 ### BOLD
-- This is **Bold_01**,<br> __BOLD 02__
+- This is<br> 
+**Bold 01**<br>
+__Bold 02__
 
 ***
 ### ITALICS
