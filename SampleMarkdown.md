@@ -1,7 +1,7 @@
-# Hello World
-<p style="color:#FF0000";>BOLD</p>
+# Sample Markup in GitHub
+BOLD
 - This is **Bold_01**,<br> __BOLD 02__
-<br>
+<br><br>
 ITALICS
 - *italicized text*
 BlockQuote
