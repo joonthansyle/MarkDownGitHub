@@ -106,6 +106,7 @@ term
 
 ***
 ### Mermaid Graph
+[LINK](https://github.com/mermaid-js/mermaid)
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
