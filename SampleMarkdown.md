@@ -1,4 +1,4 @@
-# Sample Markup in GitHub
+# Sample Markdown in GitHub
 
 ### BOLD
 - This is **Bold_01**,<br> __BOLD 02__
