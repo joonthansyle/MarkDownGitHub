@@ -1,3 +1,4 @@
+header-includes: \usepackage{xcolor}
 # Sample Markdown in GitHub
 
 ### BOLD
@@ -141,7 +142,7 @@ $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
-header-includes: \usepackage{xcolor}
+\textcolor{green}{Text is green!}
 
 
 ***
