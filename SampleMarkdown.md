@@ -130,12 +130,13 @@ C --> D
 ***
 ### Font Coloring
 
+$\color{orange} {This~is~ORANGE}$
+$\color{green} {This~is~GREEN}$
+
+
 $\color{yellow} {This}$
 $\color{yellow} {is}$
 $\color{yellow} {Yellow}$
-
-$\color{red} {This~is~RED}$
-$\color{ligthgray} {This~is~LIGHTGRAY}$
 
 $\color{red} {This}$
 $\color{red} {is}$
@@ -146,7 +147,7 @@ $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
 
-$\color{color-code}{~your text here}$
+
 
 
 ***
