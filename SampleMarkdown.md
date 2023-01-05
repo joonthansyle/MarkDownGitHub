@@ -52,8 +52,7 @@ First line with the HTML tag after.<br>
 ~~The world is flat.~~ We now know that the world is round.<br>
 
 ### Subscript
-H~2~O
-
+H~2~O<br>
 H<sub>2</sub>O
 
 ### Superscript
