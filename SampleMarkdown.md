@@ -103,7 +103,9 @@ C --> D
 
 ### Font Coloring
 
-$\color{yellow} {This is YELLOW}$
+$\color{yellow} {This}$
+$\color{yellow} {is}$
+$\color{yellow} {Yellow}$
 
 $\color{red} {This is RED}$
 
