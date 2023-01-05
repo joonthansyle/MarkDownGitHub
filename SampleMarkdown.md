@@ -56,7 +56,7 @@ H~2~O
 
 ### Superscript
 X^2^<br>
-[^note]: This is footnote
+X<sup>2</sup>
 
 ### Image
 ![alt text](https://i.ytimg.com/vi/a3_Zv-qP95A/maxresdefault.jpg)
