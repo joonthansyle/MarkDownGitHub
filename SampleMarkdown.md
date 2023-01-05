@@ -1,11 +1,11 @@
 # Hello World
-BOLD<br><br>
-- This is **Bold_01**,<br> __BOLD 02__<br>
-ITALICS<br>
-*italicized text*<br>
+BOLD
+- This is **Bold_01**,<br> __BOLD 02__
+ITALICS
+- *italicized text*
 BlockQuote
 > Blockquote.
-Blockquotes Nested<br>
+Blockquotes Nested
 > Blockquote.
 >> Nested
 Blockquotes Elements<br>
