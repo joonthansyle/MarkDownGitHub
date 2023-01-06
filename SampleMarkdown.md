@@ -149,6 +149,7 @@ $\color{ligthgray} {LIGHT GRAY}$
 
 $$\small \text{Font size is small, eg. $\sum{x_i = 10}$}$$
 
+***
 ### LaTeX Font Sizes
 $\Huge Hello!$<br>
 $\huge Hello!$<br>
@@ -176,7 +177,8 @@ $\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
 
-### Colors
+***
+### LaTeX Available Colors
 
 $\color {Apricot}           {\text{Apricot}}$<br>
 $\color {Aquamarine}        {\text{Aquamarine}}$<br>
