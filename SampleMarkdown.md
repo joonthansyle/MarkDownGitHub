@@ -182,6 +182,12 @@ $\color{green} \mathfrak{0123456789}$<br>
 
 $\color{Magenta} \fcolorbox{red}{white} {Magenta on White}$<br>
 
+
+
+$\boxed{a+b}$
+$\boxed{This is my test}$
+
+
 ***
 ### LaTeX Available Colors
 
@@ -287,6 +293,5 @@ This is `code`
 
 ***
 ### End
-$\boxed{a+b}$
 
 
