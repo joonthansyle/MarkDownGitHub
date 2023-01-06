@@ -300,10 +300,5 @@ This is `code`
 ### End
 
 $
-\begin{array}{c|c}
-  1 & 2 \\ 
-  \hline
-  3 & 4
- \end{array}
-$<br>
-
+\color{blue} \fcolorbox{red} {This is with foreground}
+$
