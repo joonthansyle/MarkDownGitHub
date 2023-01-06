@@ -161,6 +161,9 @@ $\small Hello!$<br>
 $\scriptsize Hello!$<br>
 $\tiny Hello!$<br>
 
+***
+### LaTeX Font Testing
+
 $\small \text{Font size is small} $<br>
 $\small \color{red} \text{Font size is small in red} $<br>
 $\normalsize \color{green} \text{Font size is normal in green} $<br>
@@ -176,6 +179,8 @@ $\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 
 $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
+
+$$\color{Magenta} \fcolorbox{red}{white} \mathsf{Magenta on White} $$
 
 ***
 ### LaTeX Available Colors
