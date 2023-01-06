@@ -178,7 +178,7 @@ $\color{green} \mathfrak{0123456789}$<br>
 
 ### Colors
 
-$\color {Apricot}           {\text{ \mathsf{Apricot Apricot}}}$<br>
+$\color {Apricot}           {\text{Apricot Apricot}}}$<br>
 $\color {Aquamarine}        {\text{Aquamarine}}$<br>
 $\color {Bittersweet}       {\text{Bittersweet}}$<br>
 $\color {Blue}{\text{Blue}}$<br>
@@ -225,19 +225,28 @@ $\color {RawSienna}{\text{RawSienna}}$<br>
 $\color {Red}{\text{Red}}$<br>
 $\color {RedOrange}{\text{RedOrange}}$<br>
 $\color {RedViolet}{\text{RedViolet}}$<br>
-
 $\color {Rhodamine}{\text{Rhodamine}}$<br>
+$\color {RoyalBlue}{\text{RoyalBlue}}$<br>
+$\color {RoyalPurple}{\text{RoyalPurple}}$<br>
+$\color {RubineRed}{\text{RubineRed}}$<br>
+$\color {Salmon}{\text{Salmon}}$<br>
+$\color {SeaGreen}{\text{SeaGreen}}$<br>
+$\color {Sepia}{\text{Sepia}}$<br>
+$\color {SkyBlue}{\text{SkyBlue}}$<br>
+$\color {SpringGreen}{\text{SpringGreen}}$<br>
+$\color {Tan}{\text{Tan}}$<br>
+$\color {TealBlue}{\text{TealBlue}}$<br>
+$\color {Thistle}{\text{Thistle}}$<br>
+$\color {Turquoise}{\text{Turquoise}}$<br>
+$\color {Violet}{\text{Violet}}$<br>
+$\color {VioletRed}{\text{VioletRed}}$<br>
+$\color {White}{\text{White}}}$<br>
+$\color {WildStrawberry}{\text{WildStrawberry}}$<br>
+$\color {Yellow}{\text{Yellow}}$<br>
+$\color {YellowGreen}{\text{YellowGreen}}$<br>
+$\color {YellowOrange}{\text{YellowOrange}}$<br>
 
 
-
-<!--
-$$<br>
-\color {RoyalBlue}{\text{RoyalBlue}}}\color {RoyalBlue}{\text{RoyalBlue}}	{\displaystyle \color {RoyalPurple}{\text{RoyalPurple}}}\color {RoyalPurple}{\text{RoyalPurple}}	{\displaystyle \color {RubineRed}{\text{RubineRed}}}\color {RubineRed}{\text{RubineRed}}
-{\displaystyle \color {Salmon}{\text{Salmon}}}\color {Salmon}{\text{Salmon}}	{\displaystyle \color {SeaGreen}{\text{SeaGreen}}}\color {SeaGreen}{\text{SeaGreen}}	{\displaystyle \color {Sepia}{\text{Sepia}}}\color {Sepia}{\text{Sepia}}	{\displaystyle \color {SkyBlue}{\text{SkyBlue}}}\color {SkyBlue}{\text{SkyBlue}}
-{\displaystyle \color {SpringGreen}{\text{SpringGreen}}}\color {SpringGreen}{\text{SpringGreen}}	{\displaystyle \color {Tan}{\text{Tan}}}\color {Tan}{\text{Tan}}	{\displaystyle \color {TealBlue}{\text{TealBlue}}}\color {TealBlue}{\text{TealBlue}}	{\displaystyle \color {Thistle}{\text{Thistle}}}{\displaystyle \color {Thistle}{\text{Thistle}}}
-{\displaystyle \color {Turquoise}{\text{Turquoise}}}\color {Turquoise}{\text{Turquoise}}	{\displaystyle \color {Violet}{\text{Violet}}}\color {Violet}{\text{Violet}}	{\displaystyle \color {VioletRed}{\text{VioletRed}}}\color {VioletRed}{\text{VioletRed}}	{\displaystyle {\color {White}{\text{White}}}}{\displaystyle {\color {White}{\text{White}}}}
-{\displaystyle \color {WildStrawberry}{\text{WildStrawberry}}}\color {WildStrawberry}{\text{WildStrawberry}}	{\displaystyle \color {Yellow}{\text{Yellow}}}{\displaystyle \color {Yellow}{\text{Yellow}}}	{\displaystyle \color {YellowGreen}{\text{YellowGreen}}}\color {YellowGreen}{\text{YellowGreen}}	{\displaystyle \color {YellowOrange}{\text{YellowOrange}}}\color {YellowOrange}{\text{YellowOrange}}
--->
 
 
  
