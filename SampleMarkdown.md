@@ -186,11 +186,12 @@ $\color{Magenta} \fcolorbox{red}{white} {Magenta on White}$<br>
 $\boxed{a+b}$
 $\boxed{\text{This is inside a box}}$
 
+$\color {BurntOrange}{\textsf{Burnt Orange}}$<br>
 
 ***
 ### LaTeX Available Colors
 
-$\color {Apricot}           {\textsf{Apricot Apricot}}$<br>
+
 $\color {Apricot}           {\text{Apricot}}$<br>
 $\color {Aquamarine}        {\text{Aquamarine}}$<br>
 $\color {Bittersweet}       {\text{Bittersweet}}$<br>
