@@ -299,11 +299,11 @@ This is `code`
 ***
 ### End
 
-:::: {.blackbox data-latex=""}
-::: {.center data-latex=""}
-**NOTICE!**
-:::
+$
+\begin{equation}
+  x = a_0 + \cfrac{1}{a_1 
+          + \cfrac{1}{a_2 
+          + \cfrac{1}{a_3 + \cfrac{1}{a_4} } } }
+\end{equation}
+$
 
-Thank you for noticing this **new notice**! Your noticing it has
-been noted, and _will be reported to the authorities_!
-::::
