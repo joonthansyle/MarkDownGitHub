@@ -175,7 +175,27 @@ $\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 
 $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
-$\color{yellow} \mathsf{in}$<br>
+
+### Colors
+$\color{apricot} \mathsf{APRICOT}$<br>
+$\color{aquamarine} \mathsf{AQUAMARINE}$<br>
+$\color{bittersweet} \mathsf{BITTERSWEET}$<br>
+$\color{blue} \mathsf{BITTERSWEET}$<br>
+$\color{bluegreen} \mathsf{BITTERSWEET}$<br>
+$\color{blueviolet} \mathsf{BITTERSWEET}$<br>
+$\color{brickred} \mathsf{BITTERSWEET}$<br>
+$\color{burnorange} \mathsf{BITTERSWEET}$<br>
+$\color{cadetblue} \mathsf{BITTERSWEET}$<br>
+$\color{carnationpink} \mathsf{BITTERSWEET}$<br>
+$\color{cerulean} \mathsf{BITTERSWEET}$<br>
+$\color{cornflowerblue} \mathsf{BITTERSWEET}$<br>
+$\color{cyan} \mathsf{BITTERSWEET}$<br>
+$\color{dandelion} \mathsf{BITTERSWEET}$<br>
+$\color{darkorchid} \mathsf{BITTERSWEET}$<br>
+$\color{emerald} \mathsf{BITTERSWEET}$<br>
+$\color{forestgreen} \mathsf{BITTERSWEET}$<br>
+
+
 
  
 
