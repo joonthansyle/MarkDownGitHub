@@ -180,21 +180,81 @@ $\color{green} \mathfrak{0123456789}$<br>
 $\color{apricot} \mathsf{APRICOT}$<br>
 $\color{aquamarine} \mathsf{AQUAMARINE}$<br>
 $\color{bittersweet} \mathsf{BITTERSWEET}$<br>
-$\color{blue} \mathsf{BITTERSWEET}$<br>
-$\color{bluegreen} \mathsf{BITTERSWEET}$<br>
-$\color{blueviolet} \mathsf{BITTERSWEET}$<br>
-$\color{brickred} \mathsf{BITTERSWEET}$<br>
-$\color{burnorange} \mathsf{BITTERSWEET}$<br>
-$\color{cadetblue} \mathsf{BITTERSWEET}$<br>
-$\color{carnationpink} \mathsf{BITTERSWEET}$<br>
-$\color{cerulean} \mathsf{BITTERSWEET}$<br>
-$\color{cornflowerblue} \mathsf{BITTERSWEET}$<br>
-$\color{cyan} \mathsf{BITTERSWEET}$<br>
-$\color{dandelion} \mathsf{BITTERSWEET}$<br>
+$\color{blue} \mathsf{BLUE}$<br>
+$\color{bluegreen} \mathsf{BLUEGREEN}$<br>
+$\color{blueviolet} \mathsf{BLUEVIOLET}$<br>
+$\color{brickred} \mathsf{BRICKRED}$<br>
+$\color{burnorange} \mathsf{BURNORANGE}$<br>
+$\color{cadetblue} \mathsf{CADETBLUE}$<br>
+$\color{carnationpink} \mathsf{CARNATIONPINK}$<br>
+$\color{cerulean} \mathsf{CERULEAN}$<br>
+$\color{cornflowerblue} \mathsf{CORNFLOWERBLUE}$<br>
+$\color{cyan} \mathsf{CYAN}$<br>
+$\color{dandelion} \mathsf{DANDELION}$<br>
 $\color{darkorchid} \mathsf{BITTERSWEET}$<br>
 $\color{emerald} \mathsf{BITTERSWEET}$<br>
 $\color{forestgreen} \mathsf{BITTERSWEET}$<br>
 
+$\color {Apricot}           {\text{Apricot}}$<br>
+$\color {Aquamarine}        {\text{Aquamarine}}$<br>
+$\color {Bittersweet}       {\text{Bittersweet}}$<br>
+$\color {Blue}{\text{Blue}}$<br>
+$\color {BlueGreen}{\text{BlueGreen}}$<br>
+$\color {BlueViolet}{\text{BlueViolet}}$<br>
+$\color {BrickRed}{\text{BrickRed}}$<br>
+$\color {Brown}{\text{Brown}}$<br>
+$\color {BurntOrange}{\text{BurntOrange}}$<br>
+$\color {CadetBlue}{\text{CadetBlue}}$<br>
+$\color {CarnationPink}{\text{CarnationPink}}$<br>
+$\color {Cerulean}{\text{Cerulean}}$<br>
+$\color {CornflowerBlue}{\text{CornflowerBlue}}$<br>
+$\color {Cyan}{\text{Cyan}}$<br>
+$\color {Dandelion}{\text{Dandelion}}$<br>
+$\color {DarkOrchid}{\text{DarkOrchid}}$<br>
+$\color {Emerald}{\text{Emerald}}$<br>
+$\color {ForestGreen}{\text{ForestGreen}}$<br>
+$\color {Fuchsia}{\text{Fuchsia}}$<br>
+$\color {Goldenrod}{\text{Goldenrod}}$<br>
+$\color {Gray}{\text{Gray}}$<br>
+$\color {Green}{\text{Green}}$<br>
+$\color {GreenYellow}{\text{GreenYellow}}$<br>
+$\color {JungleGreen}{\text{JungleGreen}}$<br>
+$\color {Lavender}{\text{Lavender}}$<br>
+$\color {LimeGreen}{\text{LimeGreen}}$<br>
+$\color {Magenta}{\text{Magenta}}$<br>
+$\color {Mahogany}{\text{Mahogany}}$<br>
+$\color {Maroon}{\text{Maroon}}$<br>
+$\color {Melon}{\text{Melon}}$<br>
+$\color {MidnightBlue}{\text{MidnightBlue}}$<br>
+$\color {Mulberry}{\text{Mulberry}}$<br>
+$\color {NavyBlue}{\text{NavyBlue}}$<br>
+$\color {OliveGreen}{\text{OliveGreen}}$<br>
+$\color {Orange}{\text{Orange}}$<br>
+$\color {OrangeRed}{\text{OrangeRed}}$<br>
+$\color {Orchid}{\text{Orchid}}$<br>
+$\color {Peach}{\text{Peach}}$<br>
+$\color {Periwinkle}{\text{Periwinkle}}$<br>
+$\color {PineGreen}{\text{PineGreen}}$<br>
+$\color {Plum}{\text{Plum}}$<br>
+$\color {ProcessBlue}{\text{ProcessBlue}}$<br>
+$\color {Purple}{\text{Purple}}$<br>
+$\color {RawSienna}{\text{RawSienna}}$<br>
+$\color {Red}{\text{Red}}$<br>
+$\color {RedOrange}{\text{RedOrange}}$<br>
+$\color {RedViolet}{\text{RedViolet}}$<br>
+
+$\color {Rhodamine}{\text{Rhodamine}}$<br>
+
+
+
+<!--
+$$<br>
+\color {RoyalBlue}{\text{RoyalBlue}}}\color {RoyalBlue}{\text{RoyalBlue}}	{\displaystyle \color {RoyalPurple}{\text{RoyalPurple}}}\color {RoyalPurple}{\text{RoyalPurple}}	{\displaystyle \color {RubineRed}{\text{RubineRed}}}\color {RubineRed}{\text{RubineRed}}
+{\displaystyle \color {Salmon}{\text{Salmon}}}\color {Salmon}{\text{Salmon}}	{\displaystyle \color {SeaGreen}{\text{SeaGreen}}}\color {SeaGreen}{\text{SeaGreen}}	{\displaystyle \color {Sepia}{\text{Sepia}}}\color {Sepia}{\text{Sepia}}	{\displaystyle \color {SkyBlue}{\text{SkyBlue}}}\color {SkyBlue}{\text{SkyBlue}}
+{\displaystyle \color {SpringGreen}{\text{SpringGreen}}}\color {SpringGreen}{\text{SpringGreen}}	{\displaystyle \color {Tan}{\text{Tan}}}\color {Tan}{\text{Tan}}	{\displaystyle \color {TealBlue}{\text{TealBlue}}}\color {TealBlue}{\text{TealBlue}}	{\displaystyle \color {Thistle}{\text{Thistle}}}{\displaystyle \color {Thistle}{\text{Thistle}}}
+{\displaystyle \color {Turquoise}{\text{Turquoise}}}\color {Turquoise}{\text{Turquoise}}	{\displaystyle \color {Violet}{\text{Violet}}}\color {Violet}{\text{Violet}}	{\displaystyle \color {VioletRed}{\text{VioletRed}}}\color {VioletRed}{\text{VioletRed}}	{\displaystyle {\color {White}{\text{White}}}}{\displaystyle {\color {White}{\text{White}}}}
+{\displaystyle \color {WildStrawberry}{\text{WildStrawberry}}}\color {WildStrawberry}{\text{WildStrawberry}}	{\displaystyle \color {Yellow}{\text{Yellow}}}{\displaystyle \color {Yellow}{\text{Yellow}}}	{\displaystyle \color {YellowGreen}{\text{YellowGreen}}}\color {YellowGreen}{\text{YellowGreen}}	{\displaystyle \color {YellowOrange}{\text{YellowOrange}}}\color {YellowOrange}{\text{YellowOrange}}
+-->
 
 
  
