@@ -171,6 +171,8 @@ $\color{yellow} \mathsf{Font} $
 $\color{yellow} \mathsf{in} $
 $\color{yellow} \mathsf{yellow} $<br>
 
+$\color{yellow} \mathsf{textual\ description\ of\ a\ variable}$<br>
+
 
  
 
