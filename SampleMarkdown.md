@@ -165,7 +165,7 @@ $\small \color{red} \text{Font size is small in red} $<br>
 $\normalsize \color{green} \text{Font size is normal in green} $<br>
 $\large \color{yellow} \text{ALL CAPS LARGE size in YELLOW} $<br>
 
-$\mathtt \color{yellow} \text{ALL CAPS LARGE size in YELLOW} $<br>
+$\color{yellow} \mathtt{ALL CAPS LARGE size in YELLOW} $<br>
 
  
 
