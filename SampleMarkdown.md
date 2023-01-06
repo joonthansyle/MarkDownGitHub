@@ -171,8 +171,9 @@ $\color{yellow} \mathsf{Font} $
 $\color{yellow} \mathsf{in} $
 $\color{yellow} \mathsf{yellow} $<br>
 
-$\color{yellow} \mathsf{textual\ description\ of\ a\ variable}$<br>
+$\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 
+$\color{green} \mathfrak{0123456789}$<br>
 
  
 
