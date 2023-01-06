@@ -292,5 +292,7 @@ This is `code`
 ***
 ### End
 
+\mbox{text}
+\makebox[width][pos]{text}
 
 
