@@ -178,7 +178,7 @@ $\color{green} \mathfrak{0123456789}$<br>
 
 ### Colors
 
-$\color {Apricot}           {\mathsf{ \text{Apricot Apricot}}}$<br>
+$\color {Apricot}           {\text{ \mathsf{Apricot Apricot}}}$<br>
 $\color {Aquamarine}        {\text{Aquamarine}}$<br>
 $\color {Bittersweet}       {\text{Bittersweet}}$<br>
 $\color {Blue}{\text{Blue}}$<br>
