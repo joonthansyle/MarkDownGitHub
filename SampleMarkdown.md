@@ -146,7 +146,7 @@ $\color{ligthgray} {This}$
 $\color{ligthgray} {is}$
 $\color{ligthgray} {LIGHT GRAY}$
 
-$$\small \text{Font size is small, eg. $\sum{x_i = 10}$}$$
+
 
 ***
 ### LaTeX Font Sizes
@@ -188,7 +188,7 @@ $\boxed{\text{This is inside a box}}$
 
 $\color {BurntOrange}{\textsf{Burnt Orange}}$<br>
 $\forall x \in X, \quad \exists y \leq \epsilon$<br>
-
+$\small \text{Font size is small, eg. $\sum{x_i = 10}$}$<br>
 ***
 ### LaTeX Available Colors
 
