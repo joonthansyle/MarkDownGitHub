@@ -177,25 +177,8 @@ $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
 
 ### Colors
-$\color{apricot} \mathsf{APRICOT}$<br>
-$\color{aquamarine} \mathsf{AQUAMARINE}$<br>
-$\color{bittersweet} \mathsf{BITTERSWEET}$<br>
-$\color{blue} \mathsf{BLUE}$<br>
-$\color{bluegreen} \mathsf{BLUEGREEN}$<br>
-$\color{blueviolet} \mathsf{BLUEVIOLET}$<br>
-$\color{brickred} \mathsf{BRICKRED}$<br>
-$\color{burnorange} \mathsf{BURNORANGE}$<br>
-$\color{cadetblue} \mathsf{CADETBLUE}$<br>
-$\color{carnationpink} \mathsf{CARNATIONPINK}$<br>
-$\color{cerulean} \mathsf{CERULEAN}$<br>
-$\color{cornflowerblue} \mathsf{CORNFLOWERBLUE}$<br>
-$\color{cyan} \mathsf{CYAN}$<br>
-$\color{dandelion} \mathsf{DANDELION}$<br>
-$\color{darkorchid} \mathsf{BITTERSWEET}$<br>
-$\color{emerald} \mathsf{BITTERSWEET}$<br>
-$\color{forestgreen} \mathsf{BITTERSWEET}$<br>
 
-$\color {Apricot}           {\text{Apricot}}$<br>
+$\color {Apricot}           {\mathsf{Apricot}}$<br>
 $\color {Aquamarine}        {\text{Aquamarine}}$<br>
 $\color {Bittersweet}       {\text{Bittersweet}}$<br>
 $\color {Blue}{\text{Blue}}$<br>
