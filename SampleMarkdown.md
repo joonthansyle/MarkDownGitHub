@@ -240,7 +240,7 @@ $\color {Thistle}{\text{Thistle}}$<br>
 $\color {Turquoise}{\text{Turquoise}}$<br>
 $\color {Violet}{\text{Violet}}$<br>
 $\color {VioletRed}{\text{VioletRed}}$<br>
-$\color {White}{\text{White}}}$<br>
+$\color {White}{\text{White}}$<br>
 $\color {WildStrawberry}{\text{WildStrawberry}}$<br>
 $\color {Yellow}{\text{Yellow}}$<br>
 $\color {YellowGreen}{\text{YellowGreen}}$<br>
