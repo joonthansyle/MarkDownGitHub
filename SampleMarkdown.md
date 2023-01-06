@@ -294,13 +294,11 @@ This is `code`
 ***
 ### End
 
----
-header-includes: \usepackage{xcolor}
-output: pdf_document
----
-\sffamily\fboxrule.1em\fboxsep1em
-\fcolorbox{black}{blue!50}{\color{white}
-\begin{minipage}[c][4cm][t]{4cm}
-This is the textbox. 
-I would like a dark blue textbox with white writing.
-\end{minipage}}
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**NOTICE!**
+:::
+
+Thank you for noticing this **new notice**! Your noticing it has
+been noted, and _will be reported to the authorities_!
+::::
