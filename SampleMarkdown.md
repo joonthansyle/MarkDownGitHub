@@ -180,7 +180,7 @@ $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
 
 $\color{Magenta} \fcolorbox{red}{white} {Magenta on White}$<br>
-
+$\color{blue} \fcolorbox{red}{orange} {This is with foreground}$<br>
 
 
 $\boxed{a+b}$
@@ -299,6 +299,4 @@ This is `code`
 ***
 ### End
 
-$
-\color{blue} \fcolorbox{red} {This is with foreground}
-$
+
