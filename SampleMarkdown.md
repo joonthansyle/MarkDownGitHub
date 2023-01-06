@@ -189,7 +189,8 @@ $\boxed{\text{This is inside a box}}$
 $\color {BurntOrange}{\textsf{Burnt Orange}}$<br>
 $\forall x \in X, \quad \exists y \leq \epsilon$<br>
 
-$\small \text{Font size is small, eg. }$\sum{x_i = 10}$}$<br>
+$\small \text{Font size is small, eg. }$
+$\sum{x_i = 10}$<br>
 
 ***
 ### LaTeX Available Colors
