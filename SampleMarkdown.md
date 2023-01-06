@@ -299,5 +299,4 @@ This is `code`
 ***
 ### End
 
-
-$\color{blue} \fcolorbox{red}{orange} {This is with foreground}$<br>
+$\boxed {\color{blue} \fcolorbox{red}{orange} {This is with foreground}}$<br>
