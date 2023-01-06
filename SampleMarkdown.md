@@ -289,34 +289,4 @@ This is `code`
 ### End
 $\boxed{a+b}$
 
-\[\boxed{a+b}\]
-
-\begin{equation}
-    \boxed{a+b}
-\end{equation}
-
-\begin{equation*}
-    \boxed{a+b}
-\end{equation*}
-
-\begin{eqnarray}
-    \boxed{a+b} \\
-    \boxed{c+d}
-\end{eqnarray}
-
-\begin{align}
-    \boxed{a+b} \\
-    \boxed{c+d}
-\end{align}
-
-\begin{equation}
-\boxed{
-    \left(
-    \begin{matrix}
-        a &b \\
-        c &d
-    \end{matrix}
-    \right)
-}
-\end{equation}
 
