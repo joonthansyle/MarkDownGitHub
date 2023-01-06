@@ -180,7 +180,7 @@ $\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
 
-$$\color{Magenta} \fcolorbox{red}{white} \mathsf{Magenta on White} $$
+$\color{Magenta} \mathsf{Magenta on White} $
 
 ***
 ### LaTeX Available Colors
