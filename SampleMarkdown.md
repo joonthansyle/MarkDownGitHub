@@ -173,6 +173,7 @@ $\color{yellow} \mathsf{yellow} $<br>
 
 $\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 
+$\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
 
  
