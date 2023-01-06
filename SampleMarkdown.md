@@ -93,7 +93,6 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-- [~] Inapplicable task
 
 ***
 ### Note
@@ -191,6 +190,7 @@ $\boxed{\text{This is inside a box}}$
 ***
 ### LaTeX Available Colors
 
+$\color {Apricot}           {\textsf{Apricot Apricot}}$<br>
 $\color {Apricot}           {\text{Apricot}}$<br>
 $\color {Aquamarine}        {\text{Aquamarine}}$<br>
 $\color {Bittersweet}       {\text{Bittersweet}}$<br>
