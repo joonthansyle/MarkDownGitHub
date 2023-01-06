@@ -181,8 +181,6 @@ $\color{green} \mathfrak{0123456789}$<br>
 
 $\color{Magenta} \fcolorbox{red}{white} {Magenta on White}$<br>
 
-
-
 $\boxed{a+b}$
 $\boxed{\text{This is inside a box}}$
 
@@ -191,6 +189,8 @@ $\forall x \in X, \quad \exists y \leq \epsilon$<br>
 
 $\small \text{Font size is small, eg. }$
 $\sum{x_i = 10}$<br>
+
+$\boxed {\color{blue} \fcolorbox{white}{SeaGreen} {\textsf{This is with foreground}}}$<br>
 
 ***
 ### LaTeX Available Colors
@@ -299,4 +299,4 @@ This is `code`
 ***
 ### End
 
-$\boxed {\color{blue} \fcolorbox{white}{SeaGreen} {\textsf{This is with foreground}}}$<br>
+
