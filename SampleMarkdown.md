@@ -187,6 +187,7 @@ $\boxed{a+b}$
 $\boxed{\text{This is inside a box}}$
 
 $\color {BurntOrange}{\textsf{Burnt Orange}}$<br>
+$\forall x \in X, \quad \exists y \leq \epsilon$<br>
 
 ***
 ### LaTeX Available Colors
