@@ -191,7 +191,7 @@ $\small \text{Font size is small, eg. }$
 $\sum{x_i = 10}$<br>
 
 $\boxed {\color{blue} \fcolorbox{white}{SeaGreen} {\textsf{This is with foreground}}}$<br>
-$\boxed {\color{blue} \fcolorbox{white}{SeaGreen} {\large \textsf{This is with foreground}}}$<br>
+$\boxed {\color{blue} \fcolorbox{white}{SeaGreen} {\Huge \textsf{This is with foreground} {\large \textsf{This is with foreground} }}$<br>
 
 ***
 ### LaTeX Available Colors
