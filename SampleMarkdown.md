@@ -293,7 +293,13 @@ This is `code`
 ### End
 
 $
-\mbox{text}
-\makebox[width][pos]{text}
+\raisebox{0pt}[0pt][0pt]{\Large%
+  \textbf{Aaaa\raisebox{-0.3ex}{a}%
+    \raisebox{-0.7ex}{aa}%
+    \raisebox{-1.2ex}{r}%
+    \raisebox{-2.2ex}{g}%
+    \raisebox{-4.5ex}{h}
+  }
+}
 $
 
