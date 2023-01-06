@@ -190,7 +190,7 @@ $\forall x \in X, \quad \exists y \leq \epsilon$<br>
 $\small \text{Font size is small, eg. }$
 $\sum{x_i = 10}$<br>
 
-$\boxed {\color{black} \fcolorbox{white}{white} {\LARGE \color{SeaGreen}\textsf{i} \normalsize \color{black} \textsf{This is with foreground} \LARGE \color{SeaGreen} \textsf{i}}}$<br>
+$\boxed {\color{black} \fcolorbox{white}{white} {\LARGE \color{white}\textsf{i} \normalsize \color{black} \textsf{This is with foreground} \LARGE \color{white} \textsf{i}}}$<br>
 
 ***
 ### LaTeX Available Colors
