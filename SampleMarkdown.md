@@ -175,7 +175,10 @@ $\color{green} \mathsf{textual\ description\ of\ a\ variable}$<br>
 
 $\color{green} \mathfrak{ABCDEFGHI}$<br>
 $\color{green} \mathfrak{0123456789}$<br>
-
+${| class="wikitable" align="center"
+| style="background-color: gray;"      | <math>x^2</math>
+| style="background-color: Goldenrod;" | <math>y^3</math>
+|}$<br>
  
 
 ***
