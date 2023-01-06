@@ -166,7 +166,7 @@ $\normalsize \color{green} \text{Font size is normal in green} $<br>
 $\large \color{yellow} \text{ALL CAPS LARGE size in YELLOW} $<br>
 
 $\color{yellow} \mathtt{ALL CAPS LARGE size in YELLOW} $<br>
-$\color{yellow} \mathsf{ALL CAPS LARGE size in YELLOW} $<br>
+$\color{yellow} \mathsf \text{ALL CAPS LARGE size in YELLOW} $<br>
 
 
  
