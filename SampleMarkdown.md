@@ -185,7 +185,7 @@ $\color{Magenta} \fcolorbox{red}{white} {Magenta on White}$<br>
 
 
 $\boxed{a+b}$
-$\boxed{This is my test}$
+$\boxed \text{This is inside a box}$
 
 
 ***
