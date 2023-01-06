@@ -254,13 +254,6 @@ $\color {YellowGreen}{\text{YellowGreen}}$<br>
 $\color {YellowOrange}{\text{YellowOrange}}$<br>
 
 
-$\makebox[0pt]{Some text} over this text$<br>
-
-
-
-
- 
-
 ***
 ### DIFF
 
@@ -295,12 +288,4 @@ This is `code`
 ***
 ### End
 
-$
-\fbox{%
-  \parbox{\textwidth}{
-    Some very long text\\
-    that would not be allowed\\
-    in an fbox.
-  }%
-}$
 
